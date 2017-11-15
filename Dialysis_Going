@@ -1,0 +1,8 @@
+DELAY 3000
+STRING Arrival: Unit ### dispatched to * to transport * year old * to * for dialysis appointment. Upon arrival pt was found lying supine in *. 
+ENTER
+STRING Chief Complaint: Pt has
+ENTER
+STRING History: Pt has a history of:
+ENTER
+STRING 
