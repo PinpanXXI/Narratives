@@ -1,9 +1,12 @@
-DELAY 3000
+DELAY 1000
 STRING Arrival: Unit ### dispatched to * to transport * year old * to * from dialysis appointment. Upon arrival pt was found lying supine in *. 
+ENTER
 ENTER
 STRING Chief Complaint: Pt has
 ENTER
+ENTER
 STRING History: Pt has a history of:
+ENTER
 ENTER
 STRING Assessment:
 ENTER
@@ -20,8 +23,10 @@ ENTER
 ENTER
 STRING Treatment: Treatment: Pt assessed, vitals were taken and found within normal limits.  Pt was monitored enroute.
 ENTER
+ENTER
 STRING Transport: Pt to stretcher via draw sheet 2 man lift, pt secured x 5 straps x 2 rails up. Pt moved to ambulance via stretcher, stretcher secured in ambulance via locking bar.
 STRING  Ongoing assessment performed while in route to destination with no new findings. Pt transported to *.
+ENTER
 ENTER
 STRING Evaluation: pt was wheeled to rm ---. pt to bed via 2 man draw sheet lift with slide board.  
 STRING Pt was secured x 2 rails. Pt's authorization signature was acquired. Receiving facility signatures were acquired by RN . 
