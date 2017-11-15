@@ -5,4 +5,24 @@ STRING Chief Complaint: Pt has
 ENTER
 STRING History: Pt has a history of:
 ENTER
-STRING 
+STRING Assessment:
+ENTER
+STRING HEENT: No drainage, no JVD, mid-line trachea, and pupils are PERRLA.
+ENTER
+STRING Chest: breath sounds are clear bilaterally with equal chest rise and fall.
+ENTER
+STRING Abdomen: No guarding or tenderness on all quadrants, normal bowel sounds.
+ENTER
+STRING Limbs: Intact with good PMSX4
+ENTER
+STRING Pt denies pain in all regions.
+ENTER
+ENTER
+STRING Treatment: Treatment: Pt assessed, vitals were taken and found within normal limits.  Pt was monitored enroute.
+ENTER
+STRING Transport: Pt to stretcher via draw sheet 2 man lift, pt secured x 5 straps x 2 rails up. Pt moved to ambulance via stretcher, stretcher secured in ambulance via locking bar.
+STRING  Ongoing assessment performed while in route to destination with no new findings. Pt transported to *.
+ENTER
+STRING Evaluation: Pt remained stable throughout transport. Upon arrival cot was taken to dialysis chair, pt moved to dialysis chair via draw sheet two man lift. 
+STRING Pt secured x 2 chair rails back in place. Pt signed written authorization, facility signatures refused due to no sign policy. 
+STRING Equipment and module were decontaminated and unit ### was cleared back in service.
