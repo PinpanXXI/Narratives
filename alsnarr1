@@ -23,6 +23,10 @@ ENTER
 ENTER
 STRING Treatment: vitals were obtained and pt received palpable care
 ENTER
-STRING Transport: Pt was loaded to our stretcher via 2 man draw sheet lift with slide board. pt was secured to the stretcher x 5 strap and 2 rails. stretcher wheeled to the ambulance and locked to ambulance x 1 magnetic lock. pt showed no new findings during transport. pt was transported to ----.
 ENTER
-STRING Evaluation: pt was wheeled to rm ---. pt to bed via 2 man draw sheet lift with slide board. pt was secured x 2 rails. Pt's authorization signature was acquired. Receiving facility signatures were acquired by RN . Pt report given to RN ---- at receiving facility. Pt care was transferred over to rn ---- afterward. Equipment and module were decontaminated and unit ### was cleared back in service.
+STRING Transport: Pt was loaded to our stretcher via 2 man draw sheet lift with slide board. pt was secured to the stretcher x 5 strap and 2 rails. 
+STRING stretcher wheeled to the ambulance and locked to ambulance x 1 magnetic lock. pt showed no new findings during transport. pt was transported to ----.
+ENTER
+STRING Evaluation: pt was wheeled to rm ---. pt to bed via 2 man draw sheet lift with slide board. pt was secured x 2 rails. 
+STRING Pt's authorization signature was acquired. Receiving facility signatures were acquired by RN . Pt report given to RN ---- at receiving facility. 
+STRING Pt care was transferred over to rn ---- afterward. Equipment and module were decontaminated and unit ### was cleared back in service.
