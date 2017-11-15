@@ -1,0 +1,29 @@
+DELAY 3000
+STRING Arrival: Unit ### dispatched to * to transport * year old * to * from dialysis appointment. Upon arrival pt was found lying supine in *. 
+ENTER
+STRING Chief Complaint: Pt has
+ENTER
+STRING History: Pt has a history of:
+ENTER
+STRING Assessment:
+ENTER
+STRING HEENT: No drainage, no JVD, mid-line trachea, and pupils are PERRLA.
+ENTER
+STRING Chest: breath sounds are clear bilaterally with equal chest rise and fall.
+ENTER
+STRING Abdomen: No guarding or tenderness on all quadrants, normal bowel sounds.
+ENTER
+STRING Limbs: Intact with good PMSX4
+ENTER
+STRING Pt denies pain in all regions.
+ENTER
+ENTER
+STRING Treatment: Treatment: Pt assessed, vitals were taken and found within normal limits.  Pt was monitored enroute.
+ENTER
+STRING Transport: Pt to stretcher via draw sheet 2 man lift, pt secured x 5 straps x 2 rails up. Pt moved to ambulance via stretcher, stretcher secured in ambulance via locking bar.
+STRING  Ongoing assessment performed while in route to destination with no new findings. Pt transported to *.
+ENTER
+STRING Evaluation: pt was wheeled to rm ---. pt to bed via 2 man draw sheet lift with slide board.  
+STRING Pt was secured x 2 rails. Pt's authorization signature was acquired. Receiving facility signatures were acquired by RN . 
+STRING Pt report given to RN ---- at receiving facility. Pt care was transferred over to rn ---- afterward. 
+STRING Equipment and module were decontaminated and unit ### was cleared back in service.
