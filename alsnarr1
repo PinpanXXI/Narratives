@@ -1,4 +1,5 @@
 DELAY 3000
+DEFAULT_DELAY 100
 STRING arrival: Unit ### dispatched to ----, Rm --- to transport a -- year old --male pt to ---- for ----. We made pt contact to find the pt in ----. pt is A&O-, GCS--, airway is patent, breath sounds are clear, skin is warm, pink, and dry.
 ENTER
 ENTER
